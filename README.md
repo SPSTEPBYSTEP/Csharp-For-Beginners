@@ -17,7 +17,7 @@ To download project files simply click [here](https://codeload.github.com/dbugti
 
 **OR**
 
-Go to top right corner of page and click on *Clone or Download* button.
+Go to top right corner of page and click on **Clone or Download** button.
 
 ---
 
