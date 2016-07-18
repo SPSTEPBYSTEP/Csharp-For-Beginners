@@ -24,7 +24,12 @@ Go to top right corner of page and click on **Clone or Download** button.
 
 ##How to open project files
 
-Each folder contain separate project files. Simply go to your desire project folder and find a file with extension **.sln** . Open it with visual studio. Rebuild the project and you’re good to go.
+Each folder has separate project. To open a project file, please follow these simple steps  
+
+1. Go to project folder  
+2. Find file with extension **.sln**  
+3. Open **.sln** file with **Visual Studio**  
+4. Rebuild the project and you're good to go  
 
 ---
 
@@ -47,10 +52,11 @@ Go to our YouTube [channel](https://www.youtube.com/channel/UC1dVAe_ZyY6KJdFtrv1
 
 To get daily updates on our awesome courses, you can:
 
-* Subscribe to our [YouTube](https://www.youtube.com/channel/UC1dVAe_ZyY6KJdFtrv16j1g) channel
-* Like us on [Facebook](https://www.facebook.com/debugtime)
-* Follow us on [Twitter](https://twitter.com/debugtime) 
-* Add us in your circle on [Google+](#)
+* Subscribe to our [YouTube](https://www.youtube.com/channel/UC1dVAe_ZyY6KJdFtrv16j1g) channel :thumbsup:
+* Like us on [Facebook](https://www.facebook.com/debugtime) :thumbsup:
+* Follow us on [Twitter](https://twitter.com/debugtime)  :thumbsup:
+* Add us in your circle on [Google+](#) :thumbsup:
+
 
 
 
