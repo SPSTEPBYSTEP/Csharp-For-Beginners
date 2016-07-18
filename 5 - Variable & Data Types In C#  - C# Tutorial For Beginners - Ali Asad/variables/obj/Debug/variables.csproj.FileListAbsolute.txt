@@ -1,0 +1,6 @@
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\bin\Debug\variables.exe.config
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\bin\Debug\variables.exe
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\bin\Debug\variables.pdb
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.exe
+c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.pdb
