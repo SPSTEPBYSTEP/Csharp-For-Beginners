@@ -5,6 +5,12 @@ It’s an online video training, designed by Microsoft Certified Folks. The vide
 
 ---
 
+#About Author
+
+[Ali Asad](https://twitter.com/imaliasad) is Microsoft Certified Professional & Specialist in Programming in C#. He has trained numerous students &  professionals on subjects like C#, .NET and Application Development. 
+
+---
+
 ##How to download these files
 
 To download project files simply click [here](https://codeload.github.com/dbugtime/Csharp-For-Beginners/zip/master)
