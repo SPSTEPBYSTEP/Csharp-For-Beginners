@@ -1,13 +1,13 @@
 About C# For Beginners
 ===
 
-It’s an online video training, designed by Microsoft Certified Folks. The video series has been primarily designed for beginners. Who intend to start their career in developing applications and games with C# & .NET. These series of video helps you to learn in depth concepts of programming in C# with very simple and intuitive examples. *Here you get all the project files that author has used in tutorials*. 
+It’s an online video training, designed by Microsoft Certified Folks. The video series has been primarily designed for beginners. Who intend to start their career in developing applications and games with C# & .NET. These series of video helps you to learn in depth concepts of programming in C# with very simple and intuitive examples. `Here you can get all  project files that author has followed in tutorials`. :simple_smile:
 
 ---
 
 #About Author
 
-[Ali Asad](https://twitter.com/imaliasad) is Microsoft Certified Professional & Specialist in Programming in C#. He has trained numerous students &  professionals on subjects like C#, .NET and Application Development. 
+[Ali Asad](https://twitter.com/imaliasad) is Microsoft Certified Professional & Specialist in Programming in C#. He has trained numerous students &  professionals on subjects like C#, .NET and Application Development.  :sunglasses:
 
 ---
 
