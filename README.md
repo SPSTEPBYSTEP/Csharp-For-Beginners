@@ -41,7 +41,7 @@ Each folder has separate project. To open a project file, please follow these si
 
 ##How to read code.
 
-Follow tutorial of the project and folow the steps that author has followed.
+Follow each step explained by me in tutorial.
 
 ---
 
