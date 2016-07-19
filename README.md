@@ -5,9 +5,14 @@ It’s an online video training, designed by Microsoft Certified Folks. The vide
 
 ---
 
-#About Author
+#About Me
 
-[Ali Asad](https://twitter.com/imaliasad) is Microsoft Certified Professional & Specialist in Programming in C#. He has trained numerous students &  professionals on subjects like C#, .NET and Application Development.  :sunglasses:
+Hey! I'm Ali Asad, a Microsoft Certified Professional & C# Specialist in Pakistan. If you're into Windows & Application Development, you are at right place. I read, I teach and I speak; should you see me out somewhere, say hi!
+Thanks for your visit. :sunglasses:  
+
+ali.soft@live.com  
+     336 071 7272  
+       [@imaliasad](https://twitter.com/imaliasad)
 
 ---
 
