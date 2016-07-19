@@ -7,7 +7,7 @@ It’s an online video training, designed by Microsoft Certified Folks. The vide
 
 #About Me
 
-Hey! I'm Ali Asad, a Microsoft Certified Professional & C# Specialist in Pakistan. If you're into Windows & Application Development, you are at right place. I read, I teach and I speak; should you see me out somewhere, say hi!
+Hey! I'm Ali Asad, a Microsoft Certified Professional & C# Specialist in Pakistan.  If you're into Windows & Application Development, you are at right place. I read, teach and speak code @dbugtime; should you see me out somewhere, say hi! 
 Thanks for your visit. :sunglasses:  
 
 ali.soft@live.com  
