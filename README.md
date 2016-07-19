@@ -1,7 +1,7 @@
 About C# For Beginners
 ===
 
-It’s an online video training, designed by Microsoft Certified Folks. The video series has been primarily designed for beginners. Who intend to start their career in developing applications and games with C# & .NET. These series of video helps you to learn in depth concepts of programming in C# with very simple and intuitive examples. `Here you can get all  project files that author has followed in tutorials`.  :smiley:
+It’s an online video training, designed by Microsoft Certified Folks. The video series has been primarily designed for beginners. Who intend to start their career in developing applications and games with C# & .NET. These series of video helps you to learn in depth concepts of programming in C# with very simple and intuitive examples. `Here you can get all  project files that I've followed in tutorials`.  :smiley:
 
 ---
 
