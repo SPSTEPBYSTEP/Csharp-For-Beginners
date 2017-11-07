@@ -4,3 +4,10 @@ c:\users\imali\documents\visual studio 2015\Projects\variables\variables\bin\Deb
 c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache
 c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.exe
 c:\users\imali\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.pdb
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\bin\Debug\variables.exe.config
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\bin\Debug\variables.exe
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\bin\Debug\variables.pdb
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\obj\Debug\variables.exe
+C:\Users\Rao Nisar\Documents\GitHub\Csharp-For-Beginners\5 - Variable & Data Types In C#  - C# Tutorial For Beginners - Ali Asad\variables\obj\Debug\variables.pdb
