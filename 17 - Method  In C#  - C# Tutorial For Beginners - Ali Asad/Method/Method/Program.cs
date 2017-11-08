@@ -8,7 +8,7 @@ namespace Method
 {
     class Program
     {
-        #region MyRegion
+        #region Method by using static key word
 
         static void Main(string[] args)
         {
@@ -25,7 +25,8 @@ namespace Method
             Console.WriteLine("Nisar Ahmed");
 
         #endregion
-            #region MyRegion
+
+        #region Method with out using Static key word
 
             //static void Main(string[] args)
             //{
@@ -43,6 +44,7 @@ namespace Method
             //    Console.WriteLine("Nisar Ahmed");
         }
         #endregion
+
         /* 
          *  return type name (parameter_list)
          *  {
